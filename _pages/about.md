@@ -27,7 +27,7 @@ NEWS
 <a name="research-interests"></a>Research Interests
 ======
 <ul>
-<li>My main research lies in Artificial Intelligence, Machine Learning, Computer Vision, and Evolutionary Computation.</li>
+<p>My main research lies in Artificial Intelligence, Machine Learning, Computer Vision, and Evolutionary Computation.</p>
 <li><p><b>evolutionary computer vision and image processing</b>, particularly image classification, image analysis, image segmentation, edge detection, and object detection</p>
 </li>
 <li><p><b>evolutionary computation</b>, particularly Genetic Programming, particle swarm optimization, bacterial foraing optimization, surrogate-assisted evolutionary algorithms, evolutionary multi-objective optimization</p>
