@@ -19,8 +19,8 @@ NEWS
 ======
 
 <ul>
-<li>I am selected as an <span style="color: #FF0000"><b>Associate Editor</b></span> of IEEE Transactions on Evolutionary Computation, 2024. <a href="">[Certificate]</a></li>
-<li>I am selected as an <span style="color: #FF0000"><b>Associate Editor</b></span> of IEEE Transactions on Artificial Intelligence, 2024. <a href="">[Certificate]</a></li>
+<li>I am selected as an <span style="color: #FF0000"><b>Associate Editor</b></span> of IEEE Transactions on Evolutionary Computation, 2024.</li>
+<li>I am selected as an <span style="color: #FF0000"><b>Associate Editor</b></span> of IEEE Transactions on Artificial Intelligence, 2024. </li>
 
 </ul>
 
