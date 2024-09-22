@@ -12,7 +12,7 @@ Distinguished Professor, PhD Supervisor \\
 School of Electrical and Information Engineering, ([EIF]([http://www5.zzu.edu.cn/eie/])) \\
 Zhengzhou University (ZZU), Zhengzhou, China ([ZZU](https://www.zzu.edu.cn/index.htm))
 
-Computaintional Intelligence Lab  ([CILab](http://www5.zzu.edu.cn/cilab/)) \\
+Computaintional Intelligence Lab  ([CILab](http://www5.zzu.edu.cn/cilab/)) 
 
 
 NEWS
