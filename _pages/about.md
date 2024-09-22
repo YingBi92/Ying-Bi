@@ -22,33 +22,24 @@ NEWS
 <li>I am selected as an <span style="color: #FF0000"><b>Associate Editor</b></span> of IEEE Transactions on Evolutionary Computation, 2024.</li>
 <li>I am selected as an <span style="color: #FF0000"><b>Associate Editor</b></span> of IEEE Transactions on Artificial Intelligence, 2024. </li>
 <li>I am selected as an <span style="color: #FF0000"><b>Editorial Board Member</b></span> of Applied Soft Computing, 2024. </li>
-
 </ul>
 
 <a name="research-interests"></a>Research Interests
 ======
 <ul>
 <p>My main research lies in Artificial Intelligence, Machine Learning, Computer Vision, and Evolutionary Computation.</p>
-<li><p><b>evolutionary computer vision and image processing</b>, particularly image classification, image analysis, image segmentation, edge detection, and object detection</p></li>
-<li><p><b>evolutionary computation</b>, particularly Genetic Programming, particle swarm optimization, bacterial foraing optimization, surrogate-assisted evolutionary algorithms, evolutionary multi-objective optimization</p></li>
-<li><p><b>evolutionary machine learning</b>, particularly supervised learning, classification, ensemble learning, transfer learning, few-shot learning, and evolutionary deep learning </p></li>
-<li><p><b>feature engineering and learning</b>, particularly feature extraction, feature construction, and feature learning</p></li>
-<li><p><b>applications of evolutionary computation techniques</b>, particularly fault diagnosis, remote sensing image analysis, aquaculture data analysis, face recognition, emotion analysis, scene analysis, job shop scheduling, resource allocation, supply chain management, etc.</p></li>
+<li><p><b> evolutionary computer vision and image processing</b>, particularly image classification, image analysis, image segmentation, edge detection, and object detection</p></li>
+<li><p><b> evolutionary computation</b>, particularly Genetic Programming, particle swarm optimization, bacterial foraing optimization, surrogate-assisted evolutionary algorithms, evolutionary multi-objective optimization</p></li>
+<li><p><b> evolutionary machine learning</b>, particularly supervised learning, classification, ensemble learning, transfer learning, few-shot learning, and evolutionary deep learning </p></li>
+<li><p><b> feature engineering and learning</b>, particularly feature extraction, feature construction, and feature learning</p></li>
+<li><p><b> applications of evolutionary computation techniques</b>, particularly fault diagnosis, remote sensing image analysis, aquaculture data analysis, face recognition, emotion analysis, scene analysis, job shop scheduling, resource allocation, supply chain management, etc.</p></li>
 </ul>
 
 Biography
 ======
-Dr. Yi Mei is an Associate Professor and Associate Dean (Research) at the Faculty of Engineering, Victoria University of Wellington, Wellington, New Zealand. 
+Dr. Ying Bi is currently a researcher at Zhengzhou University, China. She received the Ph.D. degree in 2020 from the Victoria University of Wellington (VUW), New Zealand. Her research focuses mainly on evolutionary computer vision and machine learning. She has published an authored book on genetic programming for image classification and over 50 papers in fully refereed journals and conferences. Dr Bi is currently the Vice-Chair of the IEEE CIS Task Force on Evolutionary Computer Vision and Image Processing, and a member of the IEEE CIS Task Force on Evolutionary Computation for Feature Selection and Construction. She is serving as the workshop chair of IEEE CEC 2024, organizer of the EDMML workshop in IEEE ICDM 2022 and IEEE ICDM 2021, and co-chair of the special session on ECVIP at IEEE CEC 2022 and IEEE CIMSIVP at IEEE SSCI 2022. She is serving as guest editor for two international journals. She has been serving as an organizing committee member of IEEE CEC 2019 and Australasian AI 2018, PC member/reviewer of over ten conferences and reviewer of over twenty international journals.
 
-His research interests include evolutionary computation for combinatorial optimisation, genetic programming, automatic algorithm design, explainable AI, multi-objective optimisation, transfer/multitask learning and optimisation. He has published on top journals in EC and Operations Research (OR) such as IEEE TEVC, IEEE TCYB, EJOR, IEEE Transactions on Services Computing, and ACM Transactions on Mathematical Software. He won an IEEE Transactions on Evolutionary Computation Outstanding Paper Award 2017, two GECCO Best Paper Awards in 2022 and 2023, and the EuroGP Best Paper Award 2022. 
 
-He is an Associate Editor of IEEE Transactions on Evolutionary Computation, IEEE Transactions on Artificial Intelligence, Journal of Scheduling, and an Editorial Board Member/Associate Editor of four other international journals. He is the Chair of the IEEE Taskforce on Evolutionary Scheduling and Combinatorial Optimisation. He serves as a Vice-Chair of the IEEE CIS Emergent Technologies Technical Committee, and a member of three IEEE CIS Task Forces and two IEEE CIS Technical Committees. He is a Fellow of Engineering New Zealand and an IEEE Senior Member.
-
-Education
-======
-* PhD in Computer Science, University of Science and Technology of China, 2010
-* MSc in Computer Science, University of Science and Technology of China, 2007
-* BSc in Mathematics, University of Science and Technology of China, 2005
 
 
 
