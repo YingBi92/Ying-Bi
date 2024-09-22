@@ -29,12 +29,12 @@ NEWS
 <a name="research-interests"></a>Research Interests
 ======
 <ul>
-<p>My main research lies in Artificial Intelligence, Machine Learning, Computer Vision, and Evolutionary Computation.</p>
-<li><p><b> evolutionary computer vision and image processing</b>, particularly image classification, image analysis, image segmentation, edge detection, and object detection</p></li>
-<li><p><b> evolutionary computation</b>, particularly Genetic Programming, particle swarm optimization, bacterial foraging optimization, surrogate-assisted evolutionary algorithms, evolutionary multi-objective optimization</p></li>
-<li><p><b> evolutionary machine learning</b>, particularly supervised learning, classification, ensemble learning, transfer learning, few-shot learning, and evolutionary deep learning </p></li>
-<li><p><b> feature engineering and learning</b>, particularly feature extraction, feature construction, and feature learning</p></li>
-<li><p><b> applications of evolutionary computation techniques</b>, particularly fault diagnosis, remote sensing image analysis, aquaculture data analysis, face recognition, emotion analysis, scene analysis, job shop scheduling, resource allocation, supply chain management, etc.</p></li>
+My main research lies in Artificial Intelligence, Machine Learning, Computer Vision, and Evolutionary Computation.
+<li><b> evolutionary computer vision and image processing</b>, particularly image classification, image analysis, image segmentation, edge detection, and object detection</li>
+<li><b> evolutionary computation</b>, particularly Genetic Programming, particle swarm optimization, bacterial foraging optimization, surrogate-assisted evolutionary algorithms, evolutionary multi-objective optimization</li>
+<li><b> evolutionary machine learning</b>, particularly supervised learning, classification, ensemble learning, transfer learning, few-shot learning, and evolutionary deep learning </li>
+<li><b> feature engineering and learning</b>, particularly feature extraction, feature construction, and feature learning</li>
+<li><b> applications of evolutionary computation techniques</b>, particularly fault diagnosis, remote sensing image analysis, aquaculture data analysis, face recognition, emotion analysis, scene analysis, job shop scheduling, resource allocation, supply chain management, etc.</li>
 </ul>
 
 Biography
