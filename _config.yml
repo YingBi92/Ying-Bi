@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yanan Sun / Professor / Sichuan University"
+title                    : "Ying Bi / Professor / Zhengzhou University"
 title_separator          : "-"
-name                     : &name "Yanan Sun"
+name                     : &name "Ying Bi"
 description              : &description "personal description"
-url                      : https://yn-sun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yingbi92.github.io/personal-webpage/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yn-sun.github.io"
+repository               : "personal-webpage.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yanan Sun"
+  name             : "Ying Bi"
   avatar           : "head.png"
-  bio              : "Professor, Sichuan University"
-  location         : "Chengdu, China"
+  bio              : "Professor, Zhengzhou University"
+  location         : "Zhengzhou, China"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=kqErKX4AAAAJ&hl=zh-CN"
-  email            : "ysun@scu.edu.cn"
+  email            : "yingbi@zzu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yn-sun"
+  github           : "yingbi92"
   google_plus      :
   keybase          :
   instagram        :
