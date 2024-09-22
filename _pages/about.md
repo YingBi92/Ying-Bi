@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A/Prof. Yi Mei"
+title: "Prof. Ying Bi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,23 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Associate Professor / Reader \\
-Associate Dean (Research) \\
-Faculty of Engineering ([FEng](https://www.wgtn.ac.nz/engineering)) \\
-Centre for Data Science and Artificial Intelligence ([CDSAI](https://www.wgtn.ac.nz/cdsai)) \\
-Victoria University of Wellington ([VUW](https://www.wgtn.ac.nz/))
+Distinguished Professor, PhD Supervisor \\
+School of Electrical and Information Engineering, ([EIF]([http://www5.zzu.edu.cn/eie/])) \\
+Zhengzhou University (ZZU), Zhengzhou, China ([ZZU](https://www.zzu.edu.cn/index.htm))
 
-
-
-Evolutionary Computation for Combinatorial Optimisation Group ([ECCO](https://ecs.wgtn.ac.nz/Groups/ECCO/WebHome)) \\
-Evolutionary Computation and Machine Learning Research Group ([ECRG](https://ecs.wgtn.ac.nz/Groups/ECRG/WebHome)) \\
-IEEE Taskforce on Evolutionary Scheduling and Combinatorial Optimisation ([TESCO](https://homepages.ecs.vuw.ac.nz/~yimei/ieee-tf-esco/))
-
-
-<span style="color: #FF0000"><b>[PhD Vacancy]</b></span>: I am looking for <b>PhD/MSc/Honours/Summer Research</b> students. If you have similar <a href="#research-interests">research interests</a> with me, please do not hesitate to <a href="mailto:yi.mei@ecs.vuw.ac.nz">contact</a> me. <br/>
-<b>中国国家留学基金委合作奖学金</b>请点击<a href="/vuw-csc/">这里</a>.
-{: .notice}
-
+Computaintional Intelligence Lab  ([CILab](http://www5.zzu.edu.cn/cilab/)) \\
 
 
 NEWS
