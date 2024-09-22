@@ -18,6 +18,8 @@ Computaintional Intelligence Lab at ZZU ([CILab](http://www5.zzu.edu.cn/cilab/))
 NEWS
 ======
 
+I gave one-hour talk as part of specialized tutorial on Evolutionary computation and evolutionary deep learning for image analysis, signal processing and pattern recognition in GECCO2024.
+
 <ul>
 <li>I am selected as an <span style="color: #FF0000"><b>Associate Editor</b></span> of IEEE Transactions on Evolutionary Computation, 2024.</li>
 <li>I am selected as an <span style="color: #FF0000"><b>Associate Editor</b></span> of IEEE Transactions on Artificial Intelligence, 2024. </li>
