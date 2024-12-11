@@ -2,7 +2,7 @@
 title: "Teaching experience 2"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2018-July-November-teaching-1
+permalink: /teaching/2018-July-November-teaching-2
 venue: "Victoria University of Wellington"
 date: 2018-07--2018.11
 location: "Wellington, New Zealand"
