@@ -2,7 +2,7 @@
 title: "Teaching experience 1"
 collection: teaching
 type: "Research Assistant"
-permalink: /teaching/2015-2016-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-1
 venue: "University 1, Department"
 date: 2015
 location: "Shenzhen, China."
