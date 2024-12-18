@@ -17,4 +17,11 @@ author_profile: true
 5. Ying Bi, Bing Xue, and Mengjie Zhang. A Survey on Genetic Programming to Image Analysis. Journal of Zhengzhou University (Engineering Science). Vol. 39, No. 06. 2018. pp. 3-13. (In Chinese).
 
 ## Journal Papers
-1.Shangshang Yang, Haiping Ma, Ying Bi, Ye Tian, Limiao Zhang, Yaochu Jin, Xingyi Zhang, An Evolutionary Multi-Objective Neural Architecture Search Approach to Advancing Cognitive Diagnosis in Intelligent Education, IEEE Transactions on Evolutionary Computation. DOI: 10.1109/TEVC.2024.3429180, 2024. [http]
+## 发表论文
+
+- **论文标题**: [A lightweight multi-dendritic pyramidal neuron model with neural plasticity on image recognition](http://example.com)
+  - **作者**: Yu Zhang, Pengxing Cai, Yanan Sun, Zhiming Zhang, Zhenyu Lei, Shangce Gao
+  - **期刊/会议**: IEEE Transactions on Artificial Intelligence
+  - **年份**: 2024
+  - **DOI**: 10.1109/TAI.2024.3379968
+  - **网址**: [http://example.com]([https://ieeexplore.ieee.org/abstract/document/10599558])
