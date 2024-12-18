@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2018-July-November-teaching-1
 venue: "Victoria University of Wellington"
-date: 2018-07--2018.11
+date: 2018-07-01
 location: "Wellington, New Zealand"
 ---
 
