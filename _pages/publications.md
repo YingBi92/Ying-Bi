@@ -7,7 +7,7 @@ author_profile: true
 *indicating the corresponding author
 
 ## Authored Book
-1. 
+1. Ying Bi, Bing Xue, and Mengjie Zhang. Genetic Programming for Image Classification: An Automated Approach to Feature Learning, Springer International Publishing 2021, DOI: https:doi.org10.1007978-3-030-65927-1.
 
 ## Survey Papers
 1. Ying Bi, Bing Xue, Pablo Mesejo, Stefano Cagnoni, Mengjie Zhang. A Survey on Evolutionary Computation for Computer Vision and Image Analysis: Past, Present, and Future Trends. IEEE Transactions on Evolutionary Computation. vol. 27, no. 1, pp.5-25, 2023. [http]
