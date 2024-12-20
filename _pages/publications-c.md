@@ -32,7 +32,7 @@ author_profile: true
 
 13. Ying Bi, Bing Xue, and Mengjie Zhang. Automatically Extracting Features for Face Classification Using Multi-Objective Genetic Programming. Proceedings of Genetic and Evolutionary Computation Conference Companion. ACM Press. Cancun, Mexico. July 8th-12th 2020, pp 117-118. [http] [pdf]
 
-14.Ying Bi, Bing Xue, and Mengjie Zhang. Genetic Programming-Based Feature Learning for Facial Expression Classification. Proceedings of IEEE Congress on Evolutionary Computation (CEC 2020). Glasgow, UK, July 19 - 24th 2020. pp 1-8. [http]
+14. Ying Bi, Bing Xue, and Mengjie Zhang. Genetic Programming-Based Feature Learning for Facial Expression Classification. Proceedings of IEEE Congress on Evolutionary Computation (CEC 2020). Glasgow, UK, July 19 - 24th 2020. pp 1-8. [http]
 
 15. Ying Bi, Bing Xue, and Mengjie Zhang. An Automated Ensemble Learning Framework Using Genetic Programming for Image Classification. Proceedings of Genetic and Evolutionary Computation Conference (GECCO 2019). ACM Press. Prague, Czech Republic. 13-17 July 2019. pp 365-373. [http] [pdf]
 
