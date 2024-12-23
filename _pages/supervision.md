@@ -43,7 +43,7 @@ Yangguang Li (Master): Evolutionary Machine Learning for Fault Diganosis
 
 Gengyue Liu (Master): Evolutionary Neural Architecture Search
 
-### Co-supervison at Victoria University of Wellington
+# Co-supervison at Victoria University of Wellington
 
 Lin Dong (PhD): Genetic Programming for Image Classification
 
