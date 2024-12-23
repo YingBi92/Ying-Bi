@@ -7,17 +7,33 @@ author_profile: true
 
 ## Professional Membership
 
-* Vice-chair: IEEE Computational Intelligence Society Task Force on Evolutionary Computer Vision and Image Processing Website
-* Member: IEEE and IEEE Computational Intelligence Society (CIS)
-* Member: ACM/SigEvo
+* Vice-chair: IEEE CIS Task Force on Evolutionary Computer Vision and Image Processing
+* Chair: the IEEE Women in Computational Intelligence Subcommittee
+* Member of IEEE CIS Task Force on Evolutionary Computation for Feature Selection and Construction
+* Member: CIS/ACM/SigEvo/CAAI/CCF/CAA/CSIG/CSF
 * Member: New Zealand Artificial Intelligence Researchers Association
-* Member: China Association Artificial Intelligence (CAAI)
-* Member: China Computer Federation (CCF)
-* Member: Chinese Association of Automation (CAA)
-* Member: China Society of Image and Graphics (CSIG)
-* Member: China Simulation Federation (CSF）
 * Executive Member of Collaborative Computing Committee of CCF
-
+* ChairManagerFounder: Wechat official account “Evolutionary Computation and Artificial Intelligence” with >4000 followers
+* Workshop Chair: 2024 IEEE Congress on Evolutionary Computation (IEEE CEC 2024)
+* Organising Committee Member: 2023 IEEE CIS Workshop on Computational Intelligence at Zhengzhou
+* Student Workshop Chair: 2024 The Genetic and Evolutionary Computation Conference (GECCO)
+* Student Affairs Chair: 2024 The Genetic and Evolutionary Computation Conference (GECCO)
+* Student Affairs Chair: 2023 The Genetic and Evolutionary Computation Conference (GECCO)
+* Organising Committee Member: 2023 Evolutionary Computation and Learning Workshop (ECOLE)
+* Local Organising Committee Member: The 31st Australasian Joint Conference on Artificial Intelligence
+* GP Session Chair: 2023 The Genetic and Evolutionary Computation Conference (GECCO)
+* Editorial Board Member: Artificial Intelligence and Autonomous Systems (2024.12-)
+* Associate Editor: IEEE Transactions on Automation Science and Engineering- Associate Editor (2024.11-) 
+* Associate Editor: New Zealand Journal of Marine and Freshwater Research (2024.03-)
+* Associate Editor: IEEE Transactions on Evolutionary Computation (2024.01-)
+* Associate Editor: IEEE Transactions on Artificial Intelligence (2024.01-)
+* Member: Applied Soft Computing- Editorial Board Member (2024.01-)
+* Associate Editor:  Computers and Electrical Engineering (2023.12-) 
+* Associate Editor: Intelligent Marine Technology and Systems (2023.08-)
+* Review Editor Frontiers in Artificial Intelligence (2023.07-)
+* Local Organising Committee Member: 2019 IEEE Congress on Evolutionary Computation (CEC 2019)
+* Poster Session Co-Chair: 2019 IEEE Congress on Evolutionary Computation (CEC 2019)
+    
 ## Associate Editor or Editorial Member
 
 * IEEE Transactions on Evolutionary Computation, 2024-
@@ -27,23 +43,6 @@ author_profile: true
 * Complex System Modelling and Simulation (English), 2024-
 * Intelligent Marine Technology and Systems, 2023-
 * New Zealand Journal of Marine and Freshwater Research, 2024-
-
-## Leadship
-
-* ChairManagerFounder: Wechat official account “Evolutionary Computation and Artificial Intelligence” with >4000 followers
-* Chair: the IEEE Women in Computational Intelligence Subcommittee
-* Vice-chair: IEEE CIS Task Force on Evolutionary Computer Vision and Image Processing
-* Member of IEEE CIS Task Force on Evolutionary Computation for Feature Selection and Construction
-* Workshop Chair: 2024 IEEE Congress on Evolutionary Computation (IEEE CEC 2024)
-* Organising Committee Member: 2023 IEEE CIS Workshop on Computational Intelligence at Zhengzhou
-* Student Workshop Chair: 2024 The Genetic and Evolutionary Computation Conference (GECCO)
-* Student Affairs Chair: 2024 The Genetic and Evolutionary Computation Conference (GECCO)
-* Student Affairs Chair: 2023 The Genetic and Evolutionary Computation Conference (GECCO)
-* Organising Committee Member: 2023 Evolutionary Computation and Learning Workshop (ECOLE)
-* Local Organising Committee Member: 2019 IEEE Congress on Evolutionary Computation (CEC 2019)
-* Local Organising Committee Member: The 31st Australasian Joint Conference on Artificial Intelligence
-* GP Session Chair: 2023 The Genetic and Evolutionary Computation Conference (GECCO)
-* Poster Session Co-Chair: 2019 IEEE Congress on Evolutionary Computation (CEC 2019)
 
 ## Organised Special Issues
 
