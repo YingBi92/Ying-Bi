@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ying Bi"
-  avatar           : "yingbi.jpg"
+  avatar           : "(../yingbi.jpg)"
   bio              : "Professor, Zhengzhou University"
   location         : "Zhengzhou, China"
   employer         :  
