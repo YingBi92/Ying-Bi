@@ -27,7 +27,7 @@ NEWS
 <li>I am selected as an <span style="color: #FF0000"><b>Editorial Board Member</b></span> of Applied Soft Computing, 2024. </li>
 </ul>
 
-<a name="research-interests"></a>Research Interests
+Research Interests
 ======
 
 
