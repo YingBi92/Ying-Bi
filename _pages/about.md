@@ -27,8 +27,10 @@ NEWS
 <li>I am selected as an <span style="color: #FF0000"><b>Editorial Board Member</b></span> of Applied Soft Computing, 2024. </li>
 </ul>
 
-<a name="research-interests"></a>Research Interests
+Research Interests <a name="research-interests"></a>
 ======
+
+
 <ul>
 My main research lies in Artificial Intelligence, Machine Learning, Computer Vision, and Evolutionary Computation.
 <li><b> evolutionary computer vision and image processing</b>, particularly image classification, image analysis, image segmentation, edge detection, and object detection</li>
@@ -40,6 +42,8 @@ My main research lies in Artificial Intelligence, Machine Learning, Computer Vis
 
 Biography
 ======
+
+
 Dr. Bi Ying is currently a distinguished professor at the School of Electrical and Information Engineering at Zhengzhou University. She was selected as a national high-level young talent in 2020 and a high-level talent in Henan Province Class C in 2024. She has been awarded 5+ national, provincial/ministerial grants as PI, published one monograph in English, and 70+ papers in SCI/EI journals or conferences, including IEEE Transactions on Evolutionary Computation and IEEE Transactions on Cybernetics. She has applied for 10+ patterns, and has been awarded the IEEE CIS Outstanding PhD Dissertation Award (only one in the field of computational intelligence in the world every year), the Gold Award of the 2nd National Postdoctoral Innovation and Entrepreneurship Competition, and the PGSA Research Excellence Award of Victoria University of Wellington (only one person per faculty).
 
 She has served as an associated editor or editorial board member for seven journals, including IEEE Transactions on Evolutionary Computation, IEEE Transactions on Artificial Intelligence, and Applied Soft Computing. She serves as the chair of the IEEE CIS Women in Computational Intelligence Subcommittee, and the vice chair of the IEEE CIS Task Force on Evolutionary Computer Vision and Image Processing. She was the workshop chair of IEEE CEC 2024, student affairs chair of GECCO 2023, GECCO 2024, and student workshop chair of GECCO 2024. She has been organizing workshops/tutorials/special sessions in conferences related to machine learning, data mining, and evolutionary computation, such as workshops in IEEE ICDM 2021-2024, special sessions/workshops in IEEE CEC 2023-2024, symposiums in IEEE SSCI 2023, etc. She has served as a reviewer for 20+ important journals and a PC member of 20+ international conferences. She has been involved in organizing conferences or events, including IEEE CEC 2019, AJCAI 2018, ECLOE 2023, and IEEE CIS Summer School.
