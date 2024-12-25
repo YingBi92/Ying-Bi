@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Professional Membership
-
+![yingbi](images/wechat.png.png)
 * Vice-chair: IEEE CIS Task Force on Evolutionary Computer Vision and Image Processing
 * Chair: the IEEE Women in Computational Intelligence Subcommittee
 * Member of IEEE CIS Task Force on Evolutionary Computation for Feature Selection and Construction
