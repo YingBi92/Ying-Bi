@@ -27,13 +27,13 @@ author_profile: true
 4. Kunjie Yu , Jintao Lian, Ying Bi, Jing Liang, Bing Xue, Mengjie Zhang. A genetic programming approach with adaptive region detection to skin cancer image classification[J]. Journal of Automation
  and Intelligence, 2024.[[http](https://www.sciencedirect.com/science/article/pii/S2949855424000340)]
 
-5.Yue, C., Liu, L., Liang, J., Li, G., Ying, B., & Yu, M. (2024, June). Multimodal Multi-Objective Flexible Job Shop Scheduling: A Preliminary Study. In 2024 IEEE Congress on Evolutionary Computation (CEC) (pp. 1-8). IEEE.[[http](https://ieeexplore.ieee.org/abstract/document/10612067)]
+5. Yue, C., Liu, L., Liang, J., Li, G., Ying, B., & Yu, M. (2024, June). Multimodal Multi-Objective Flexible Job Shop Scheduling: A Preliminary Study. In 2024 IEEE Congress on Evolutionary Computation (CEC) (pp. 1-8). IEEE.[[http](https://ieeexplore.ieee.org/abstract/document/10612067)]
 
-6.Chen J, Jia Y H, Bi Y, et al. Generate a Single Heuristic for Multiple Dynamic Flexible Job Shop Scheduling Tasks by Genetic Programming[C]//2024 IEEE Congress on Evolutionary Computation (CEC). IEEE, 2024: 1-8.[[http](https://ieeexplore.ieee.org/abstract/document/10611762)]
+6. Chen J, Jia Y H, Bi Y, et al. Generate a Single Heuristic for Multiple Dynamic Flexible Job Shop Scheduling Tasks by Genetic Programming[C]//2024 IEEE Congress on Evolutionary Computation (CEC). IEEE, 2024: 1-8.[[http](https://ieeexplore.ieee.org/abstract/document/10611762)]
 
-7.Jing Liang,Zexuan Yang,Tuo Zhang,Ying Bi. (2024, June). A Two-Stage Approach Using Genetic Algorithm and Genetic Programming for Remote Sensing Crop Classification. In 2024 IEEE Congress on Evolutionary Computation (CEC) (pp. 1-8). IEEE.[[http](https://ieeexplore.ieee.org/document/10612210)]
+ 7. Jing Liang,Zexuan Yang,Tuo Zhang,Ying Bi. (2024, June). A Two-Stage Approach Using Genetic Algorithm and Genetic Programming for Remote Sensing Crop Classification. In 2024 IEEE Congress on Evolutionary Computation (CEC) (pp. 1-8). IEEE.[[http](https://ieeexplore.ieee.org/document/10612210)]
 
-8. Al-Sahaf Harith , Mesejo, Pablo, Ying Bi,Mengjie Zhang. Evolutionary deep learning for computer vision and image processing[J]. Appl. Soft Comput., 2024. [[http](https://www.sciencedirect.com/special-issue/10DNKPTQT32)]
+ 8. Al-Sahaf Harith , Mesejo, Pablo, Ying Bi,Mengjie Zhang. Evolutionary deep learning for computer vision and image processing[J]. Appl. Soft Comput., 2024. [[http](https://www.sciencedirect.com/special- issue/10DNKPTQT32)]
 
 9. Shangshang Yang, Haiping Ma, Ying Bi, Ye Tian, Limiao Zhang, Yaochu Jin, Xingyi Zhang, An Evolutionary Multi-Objective Neural Architecture Search Approach to Advancing Cognitive Diagnosis in Intelligent Education, IEEE Transactions on Evolutionary Computation. DOI: 10.1109/TEVC.2024.3429180, 2024. [[http](https://ieeexplore.ieee.org/abstract/document/10599558)]
 
