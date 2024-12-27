@@ -120,7 +120,7 @@ author_profile: true
 * International Journal of Computer Information Systems and Industrial Management Applications
 * Algorithms
 
-## Invited Talks
+## Talks/Tutorials
 
 * Tutorial on “Evolutionary Computation and Evolutionary Deep Learning for Image Analysis, Signal Processing and Pattern Recognition” in 2024 The Genetic and Evolutionary Computation Conference (GECCO), July 2024
 * Tutorial on “Evolutionary Deep Learning for Image Classification: A Genetic Programming Approach” in IEEE Congress on Evolutionary Computation, July 2023
